@@ -9,7 +9,7 @@
 
 (function(){
     //Abbrモードを使わない場合はfalseに
-    var abbrMode = true;
+    var abbrMode = false;
     var abbrObj = {};
 
     function getAbbrv()
